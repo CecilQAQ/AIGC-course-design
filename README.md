@@ -3,7 +3,8 @@
 一个虚拟赛车品牌的完整数字内容项目。从标志到 App 到宣传片，**六项作业串成一条完整链路**。
 
 > 🌐 **在线预览**：[cecilqaq.github.io/AIGC-course-design](https://cecilqaq.github.io/AIGC-course-design/)
-> 📦 **完整全案下载**（高清原图 / 视频 / 文档）：见 [Releases](../../releases)
+> 📦 **完整全案下载**（150 张高清原图 + 9 份文档 + 宣传片，409 MB）：[`AIGC-course-full.zip`](https://github.com/cecilqaq/AIGC-course-design/releases/download/v1.0/AIGC-course-full.zip)
+> 🎨 **PSD 源文件**（10 个原始工程，718 MB）：[123 云盘](https://1816407483.share.123pan.cn/123pan/LCPqVv-F8Hkv)　免登录下载
 
 ---
 
@@ -106,8 +107,8 @@ LICENSE
 |---|---|
 | 看 Demo | 点上面的在线预览，或下载 ZIP 双击 `index.html` |
 | 拿去做作业 | 看 [作品集 README](作品集/README.md) 里的改造建议，**务必换掉品牌名和主色** |
-| 要高清原图 / 视频 | [Releases](../../releases) 里的 `课程作业全案.zip` |
-| 要 PSD 源文件 | 体积约 950 MB，GitHub 存不了，联系作者 |
+| 要高清原图 / 视频 | [下载 `AIGC-course-full.zip`（409 MB）](https://github.com/cecilqaq/AIGC-course-design/releases/download/v1.0/AIGC-course-full.zip) |
+| 要 PSD 源文件 | [123 云盘下载](https://1816407483.share.123pan.cn/123pan/LCPqVv-F8Hkv)　718 MB，10 个 PSD/PSB 原始工程，免登录 |
 
 ## 许可证
 
