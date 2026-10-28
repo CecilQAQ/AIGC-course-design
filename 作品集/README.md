@@ -8,10 +8,10 @@
 | 2 | **LOGO 及 VI 视觉系统设计** | [`01-LOGO与VI/`](01-LOGO与VI) | 标志三色版本、设计提案 PPT、6 张应用展板 |
 | 3 | **IP 形象设计 + 文创产品设计** | [`02-IP形象与文创/`](02-IP形象与文创) | IP 形象、周边文创、提案 PPT |
 | 4 | **宣传物料设计** | [`03-宣传物料/`](03-宣传物料) | 海报 6 张、线下物料 6 张、公众号 4 篇 |
-| 5 | **视频制作 + 品牌故事剧本** | [`04-视频与剧本/`](04-视频与剧本) | 剧本全文；成片见 Releases |
+| 5 | **视频制作 + 品牌故事剧本** | [`04-视频与剧本/`](04-视频与剧本) | 剧本全文；成片见 [Releases](https://github.com/cecilqaq/AIGC-course-design/releases) |
 | 6 | **项目报告** | [`05-项目报告/`](05-项目报告) | 完整创作报告 |
 
-> 仓库里的图片都压到了 1600px / JPEG 82，是**展示版**。高清原图、视频、PSD 源文件见 Releases。
+> 仓库里的图片都压到了 1600px / JPEG 82，是**展示版**。高清原图与视频见 [Releases](https://github.com/cecilqaq/AIGC-course-design/releases/download/v1.0/AIGC-course-full.zip)，PSD 源文件见 [123 云盘](https://1816407483.share.123pan.cn/123pan/LCPqVv-F8Hkv)（718 MB，免登录）。
 
 ---
 
