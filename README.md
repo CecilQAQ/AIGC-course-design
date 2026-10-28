@@ -2,7 +2,7 @@
 
 一个虚拟赛车品牌的完整数字内容项目。从标志到 App 到宣传片，**六项作业串成一条完整链路**。
 
-> 🌐 **在线预览**：[ceciliqaq.github.io/AIGC-course-design](https://ceciliqaq.github.io/AIGC-course-design/)
+> 🌐 **在线预览**：[cecilqaq.github.io/AIGC-course-design](https://cecilqaq.github.io/AIGC-course-design/)
 > 📦 **完整全案下载**（高清原图 / 视频 / 文档）：见 [Releases](../../releases)
 
 ---
